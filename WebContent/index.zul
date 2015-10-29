@@ -1,0 +1,7 @@
+<?page title="Auto Generated index.zul"?>
+<window title="Hola Mundo!!" border="normal" width="200px">
+
+<label value="You are using: ${desktop.webApp.version}"/>
+<label value="       Primera entrega SERNATEC"/>
+
+</window>
